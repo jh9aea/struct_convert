@@ -1,8 +1,12 @@
 # struct_convert
 golang struct convert func
 
+## install
+`go get github.com/jh9aea/struct_convert`
 
+or just copy main.go
 
+## use
 ```go
 type aStruct struct {
 	A string
